@@ -1,0 +1,9 @@
+C:\Users\dev\source\dinvokesyscall\loader\bin\x64\Debug\loader.exe.config
+C:\Users\dev\source\dinvokesyscall\loader\bin\x64\Debug\loader.exe
+C:\Users\dev\source\dinvokesyscall\loader\bin\x64\Debug\loader.pdb
+C:\Users\dev\source\dinvokesyscall\loader\bin\x64\Debug\DInvoke.dll
+C:\Users\dev\source\dinvokesyscall\loader\obj\x64\Debug\loader.csproj.AssemblyReference.cache
+C:\Users\dev\source\dinvokesyscall\loader\obj\x64\Debug\loader.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\dinvokesyscall\loader\obj\x64\Debug\loader.csproj.Up2Date
+C:\Users\dev\source\dinvokesyscall\loader\obj\x64\Debug\loader.exe
+C:\Users\dev\source\dinvokesyscall\loader\obj\x64\Debug\loader.pdb

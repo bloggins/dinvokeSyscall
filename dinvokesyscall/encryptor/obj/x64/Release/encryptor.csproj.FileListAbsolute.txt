@@ -1,0 +1,7 @@
+C:\Users\dev\source\dinvokesyscall\encryptor\bin\x64\Release\encryptor.exe.config
+C:\Users\dev\source\dinvokesyscall\encryptor\bin\x64\Release\encryptor.exe
+C:\Users\dev\source\dinvokesyscall\encryptor\bin\x64\Release\encryptor.pdb
+C:\Users\dev\source\dinvokesyscall\encryptor\obj\x64\Release\encryptor.csproj.AssemblyReference.cache
+C:\Users\dev\source\dinvokesyscall\encryptor\obj\x64\Release\encryptor.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\dinvokesyscall\encryptor\obj\x64\Release\encryptor.exe
+C:\Users\dev\source\dinvokesyscall\encryptor\obj\x64\Release\encryptor.pdb
