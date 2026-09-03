@@ -1,4 +1,6 @@
-## Original https://gist.githubusercontent.com/ChoiSG/d61fc7e3fc761499928791714ffbd3e3/raw/13cb12e83dfca590c504d53bf00282321d7a387a/dinvokeSyscall.cs
+# Original:
+
+https://gist.githubusercontent.com/ChoiSG/d61fc7e3fc761499928791714ffbd3e3/raw/13cb12e83dfca590c504d53bf00282321d7a387a/dinvokeSyscall.cs
 
 # DInvoke-based remote-process shellcode injector.
 
